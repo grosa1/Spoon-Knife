@@ -1,2 +1,3 @@
 fixed #9 (not commented neither labeled)
 fixed #10 (labeled but not commented)
+fixed #11 (commented but not labeled)
